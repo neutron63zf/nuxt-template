@@ -12,6 +12,9 @@ section.container
     ).user
       nuxt-link(:to="{ name: 'id', params: { id: index }}")
         |{{ user.name }}
+  hr
+  nuxt-link(to="todos")
+    |store todo sample
 </template>
 
 <script>

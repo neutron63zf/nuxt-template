@@ -1,6 +1,6 @@
-# mfsc91web
+# nuxt-template
 
-> web site for mfsc91web
+> web site template with nuxt/express/vuex/scss/pug
 
 ## Build Setup
 

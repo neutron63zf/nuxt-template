@@ -2,6 +2,10 @@
 
 > web site template with nuxt/express/vuex/scss/pug
 
+## Docs for MFSC91
+
+[Here](./docs.md) is the docs for mfsc91
+
 ## Build Setup
 
 ``` bash
